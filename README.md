@@ -1,12 +1,13 @@
 <h1>🧑‍💻Antônio</h1>
 
-**`Desenvolvedor FullStack`**
+#### Desenvolvedor FullStack
 
 Me chamo Antônio, sou natural do Rio de Janeiro. Sou desenvolvedor fullstack com mais de 15 anos de experiência. Entre as minhas stacks principais estão: .NET Core, C#, Angular Moderno, Ionic, NodeJs, banco de dados relacionais (SQL) e NoSQL.
 
 <h2>🛠️Projetos Desenvolvidos</h2>
 
 - <b>WebAPIs</b>
+
   - [REST API com .NET Core, SQL Server Database e Docker Image](https://github.com/ANTONIOFC/DevEvents)
   - [NodeJs API com acesso a base MongoDB](https://github.com/ANTONIOFC/redditApi)
   - [Pyton REST API com FASTApi framework e SQLite Database](https://github.com/ANTONIOFC/ContractsApi)
