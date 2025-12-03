@@ -10,7 +10,7 @@ Me chamo Antônio, sou natural do Rio de Janeiro. Sou desenvolvedor fullstack co
 
   - [REST API com .NET Core, SQL Server Database e Docker Image](https://github.com/ANTONIOFC/DevEvents)
   - [NodeJs API com acesso a base MongoDB](https://github.com/ANTONIOFC/redditApi)
-  - [Pyton REST API com FASTApi framework e SQLite Database](https://github.com/ANTONIOFC/ContractsApi)
+  - [Python REST API com FASTApi framework e SQLite Database](https://github.com/ANTONIOFC/ContractsApi)
 - <b>FrontEnds</b>
   - [Frontend Angular com Tailwindcss](https://github.com/ANTONIOFC/ContractsApp)
   - [Github Search](https://github.com/ANTONIOFC/github-search)
